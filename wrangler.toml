@@ -1,0 +1,9 @@
+name = "sol-meme-risk-score"
+main = "worker.js"
+compatibility_date = "2025-06-16"
+
+[vars]
+JUPITER_SHIELD_API = "https://lite-api.jup.ag/ultra/v1/shield"
+
+[dev]
+port = 8787
