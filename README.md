@@ -1,3 +1,13 @@
+<!-- Keep these links. Translations will automatically update with the README. -->
+[Deutsch](https://www.readme-i18n.com/cracker999999/sol_meme_risk_score?lang=de) | 
+[English](https://www.readme-i18n.com/cracker999999/sol_meme_risk_score?lang=en) | 
+[Español](https://www.readme-i18n.com/cracker999999/sol_meme_risk_score?lang=es) | 
+[français](https://www.readme-i18n.com/cracker999999/sol_meme_risk_score?lang=fr) | 
+[日本語](https://www.readme-i18n.com/cracker999999/sol_meme_risk_score?lang=ja) | 
+[한국어](https://www.readme-i18n.com/cracker999999/sol_meme_risk_score?lang=ko) | 
+[Português](https://www.readme-i18n.com/cracker999999/sol_meme_risk_score?lang=pt) | 
+[Русский](https://www.readme-i18n.com/cracker999999/sol_meme_risk_score?lang=ru)
+
 # Solana Meme 风险评分系统
 
 基于 Cloudflare Worker 构建的 Solana 代币风险评分系统，利用 Jupiter Ultra Shield API 进行风险评估。
