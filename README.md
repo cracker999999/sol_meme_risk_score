@@ -24,13 +24,13 @@
 ## 开发
 
 ```bash
-# 安装依赖
+# Installation Dependency 
 npm install
 
-# 本地开发
+# Local dev
 npm run dev
 
-# 部署到 Cloudflare
+# Deploy to Cloudflare
 npm run publish
 ```
 
@@ -41,7 +41,7 @@ npm run publish
 ```
 GET /api/risk-score/:mint
 
-示例: /api/risk-score/7xKXtg2CW87d97TXJSDpbD5jBkheTqA83TZRuJosgAsU
+Example: /api/risk-score/7xKXtg2CW87d97TXJSDpbD5jBkheTqA83TZRuJosgAsU
 ```
 
 ### 响应示例
